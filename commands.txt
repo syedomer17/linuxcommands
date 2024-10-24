@@ -1,0 +1,19 @@
+1.mkdir to create a folder
+2.cd to go back to the main directory 
+3.ls it show all folders and files 
+4.ls -a shows all hiden folder and files
+5.date it shows date and time 
+6.touch it will make a file 
+7.nano it is use to write contain in a file 
+8.pwd show the path 
+9.cal it show the calender 
+10.whoami shows the username 
+11.cd .. goes on step back 
+12.rm -rf remove the folders and files
+13.cp command is use to cp a file or folder 
+14.echo
+15.htop 
+16. sudo apt update 
+17.sudo apt upgrade
+18.ifconfig shows the ip adderess 
+19.ping is use to see the ip of a wed side
