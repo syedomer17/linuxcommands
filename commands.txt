@@ -13,7 +13,24 @@
 13.cp command is use to cp a file or folder 
 14.echo
 15.htop 
-16. sudo apt update 
+16.sudo apt update 
 17.sudo apt upgrade
 18.ifconfig shows the ip adderess 
 19.ping is use to see the ip of a wed side
+20.head shows first 10 lines 
+21.tail shows last 10 lines 
+22.history it shows history 
+23.uptime shows how long the system is working 
+24.uname shows user name 
+25.cat  command shows the contents inside of the file 
+26.tac command shows the contents of the file but it will showc in revers order 
+27.python3 -m http.server 8000 to 9000 it will make a surver 
+28.kill 
+29.ps 
+30.ps -f
+31.ls -lh this command shows  list files and directories in the current directory, with human-readable file sizes
+32.man [any command ] it will shows what does the command does 
+33.whatis [command] it will display in  a one-line description of a specified command
+34.wc command is used to see count the number of lines, words, and characters in a file
+35.grep The name stands for "global regular expression print."it is used to search for specific patterns or strings within files.
+
